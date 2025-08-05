@@ -51,10 +51,6 @@ docker run -d -p 80:80 react-app
 
 - Configured GitHub webhook to trigger Jenkins pipeline on every push.
 
-## 📷 Demo Screenshot
-
-*(Insert image if available)*
-
 ## 📜 License
 
 This project is for educational and demo purposes.
